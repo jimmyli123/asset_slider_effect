@@ -83,5 +83,15 @@ header a {
 }
 .carousel .list .item .content button:nth-child(2) {
     background-color: transparent;
+    color: #eee;
+    border: 1px solid #eee;
 }
-/* Stopped at 8:06 in video */
+.thumbnail {
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    width: max-content;
+    z-index: 100;
+    display: flex;
+}
+/* Stopped at 9:02 */
